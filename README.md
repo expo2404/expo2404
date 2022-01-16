@@ -1,5 +1,5 @@
 ## Hola
-_Soy Fabian Exposito , de Neuquen Argentina , técnico en desarrollo web_
+_Soy Fabian Exposito , de Neuquén Argentina , técnico en desarrollo web_
 ## Experiencia 📄
 Programador web en **Petrel** (*proyecto universitario de la tecnicatura organiza los documentos de estudiantes universitarios para cambnio de carrera tanto externo como interno de la universidad*)
 * Desarrollo Backend
